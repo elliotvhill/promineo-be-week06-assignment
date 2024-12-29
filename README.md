@@ -1,6 +1,6 @@
 # Week 6 Assignment: WAR Card Game
 
-Repository for submission for week 5 coding assignment.
+Repository for submission for week 6 coding assignment.
 
 ## Instructions 
 
